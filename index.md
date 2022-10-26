@@ -111,8 +111,8 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong> This training will take place both online and in-person at the Bar Harbor and Farmington campuses.
+  If you will attend online, the instructors will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
 
